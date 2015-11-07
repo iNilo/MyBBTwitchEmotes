@@ -13,3 +13,7 @@ Get it working by calling it over CLI, it will generate some SQL files you have 
 Normal emotes can be acceses with their normal code such as : "Kappa"
 
 Subscriber only emotes need to be surrounded with colons :sum1g:
+
+
+###Thanks to twitchemotes.com for providing a public API!
+https://twitchemotes.com/
